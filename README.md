@@ -33,7 +33,7 @@ The original files are much larger and messier, and you don't need to download t
 
 ## Statistics Computed
 
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information :
 In this project various statistics are provided for Chicago, New York City, and Washington like:
 
 **#1 Popular times of travel**  (i.e., occurs most often in the start time)
